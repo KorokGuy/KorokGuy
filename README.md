@@ -1,0 +1,4 @@
+- 👋 Hi, I’m KorokGuy
+- 👀 I’m interested in Robotics and video game coding
+- 🌱 I’m currently learning how to use Java script
+- 📫 You can use my Discord : KorokGuy #9450
